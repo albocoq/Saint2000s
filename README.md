@@ -26,7 +26,4 @@ This approach separates the frontend presentation layer from the backend commerc
 
 ## 📸 Interface Previews
 
-*(Instructions : Prends de belles captures d'écran de ton site, glisse-les dans ton dépôt GitHub, et remplace les liens ci-dessous pour qu'elles s'affichent !)*
-
-### Homepage
-![saint2000s](./screenshot-home.png)
+![saint2000s](./presentation.mp4)
