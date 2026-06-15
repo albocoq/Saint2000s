@@ -2,7 +2,7 @@
 
 *Note: The source code for this project is hosted in a private repository for security and commercial reasons (protecting API keys, customer data, and proprietary business logic). This repository serves as a portfolio showcase of the architecture, tech stack, and UI/UX developed for the brand.*
 
-🔗 **[Visit the live website here](https://ton-lien-vers-le-site.com)** *(N'oublie pas de mettre le vrai lien)*
+🔗 **[Saint2000s](https://saint2000s.com)**
 
 ## 📖 Overview
 
@@ -29,7 +29,4 @@ This approach separates the frontend presentation layer from the backend commerc
 *(Instructions : Prends de belles captures d'écran de ton site, glisse-les dans ton dépôt GitHub, et remplace les liens ci-dessous pour qu'elles s'affichent !)*
 
 ### Homepage
-![saint2000s Homepage](./screenshot-home.png)
-
-### Product Page & Cart
-![saint2000s Product Page](./screenshot-product.png)
+![saint2000s](./screenshot-home.png)
