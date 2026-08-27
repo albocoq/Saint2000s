@@ -15,7 +15,7 @@ This approach separates the frontend presentation layer from the backend commerc
 - **Frontend Framework:** [Next.js](https://nextjs.org/) (React)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Backend / API:** Shopify Storefront API (GraphQL)
-- **Deployment:** Vercel _(Modifie si tu héberges ailleurs, ex: Netlify, AWS)_
+- **Deployment:** Vercel
 
 ## ✨ Key Features & Technical Highlights
 
